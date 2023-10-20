@@ -1,2 +1,3 @@
 # test
-echo "Hello World";
+print "Hello Word"
+echo "Welcome Back";
